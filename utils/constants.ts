@@ -1,5 +1,5 @@
 export const LINEAR = {
-    OAUTH_ID: "de24196afa78e6f3f99875b753a3ae29",
+    OAUTH_ID: "25bd93a4ea189d9d2355619e8561118c",
     OAUTH_URL: "https://linear.app/oauth/authorize",
     TOKEN_URL: "https://api.linear.app/oauth/token",
     SCOPES: ["write"],
