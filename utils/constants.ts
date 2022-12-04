@@ -13,7 +13,7 @@ export const LINEAR = {
 };
 
 export const GITHUB = {
-    OAUTH_ID: "487937ed57e1d5ffea0d",
+    OAUTH_ID: "18fdccb86dc6c507c5e1",
     OAUTH_URL: "https://github.com/login/oauth/authorize",
     TOKEN_URL: "https://github.com/login/oauth/access_token",
     SCOPES: ["repo", "write:repo_hook", "read:user", "user:email"],
@@ -36,7 +36,7 @@ export const TIMEOUTS = {
 
 export const GENERAL = {
     APP_NAME: "Linear-GitHub Sync",
-    APP_URL: "https://synclinear.com",
+    APP_URL: "https://synclinearcom-production-d248.up.railway.app/",
     CONTRIBUTE_URL: "https://github.com/calcom/linear-to-github",
     LOGIN_KEY: "login",
     SYNCED_ITEMS: [
